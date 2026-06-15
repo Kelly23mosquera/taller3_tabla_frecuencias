@@ -122,7 +122,7 @@ El polígono de frecuencias mostró de manera clara la tendencia de la distribuc
 La ojiva permitió analizar el comportamiento acumulado de los datos. A través de esta representación se observó que el 64 % de los usuarios descargó hasta 90 aplicaciones y que el 80 % descargó hasta 105 aplicaciones. La curva ascendente refleja la acumulación progresiva de las observaciones hasta alcanzar el total de la muestra.
 
 
-## **Resultados Obtenidos **
+## **Resultados Obtenidos**
 
 El análisis evidenció que la mayor concentración de observaciones se encuentra en el intervalo comprendido entre 60 y 75 aplicaciones descargadas, con una frecuencia absoluta de 10 usuarios, equivalente al 20 % de la muestra.
 
