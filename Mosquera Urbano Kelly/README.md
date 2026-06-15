@@ -13,6 +13,12 @@ Asignatura: Inteligencia Artificial
 
 *Estudiante: **Kelly Jhoana Mosquera Urbano**
 
+## Enlace 
+
+El siguiente enlace  contiene la base de datos utilizada en el desarrollo del taller, así como los cálculos estadísticos realizados, la tabla de distribución de frecuencias y las representaciones gráficas empleadas para el análisis de la variable **Apps Descargadas**.
+
+https://unipacificoeduco-my.sharepoint.com/:x:/r/personal/kjhoanamosquera_unipacifico_edu_co/_layouts/15/Doc.aspx?sourcedoc=%7B65CC6EAE-D5EA-4875-B4B1-EBB0EC55148F%7D&file=Libro.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&wdOrigin=SEARCHENGINE.GOOGLE%2CAPPHOME-WEB.JUMPBACKIN&wdPreviousSession=79b154c5-cfde-4423-b0de-6be5933c594a&wdPreviousSessionSrc=AppHomeWeb&ct=1781543885541
+
 
 
 ## **Descripción**
