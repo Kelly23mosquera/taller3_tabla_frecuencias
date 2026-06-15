@@ -4,8 +4,11 @@
 Taller No. 3 - Análisis Estadístico Descriptivo y Visualización de Datos
 
 *Universidad del Pacífico
+
 *Programa: Ingeniería de Sistemas
+
 Asignatura: Inteligencia Artificial
+
 *Docente: Wilman Andrés Quiñonez 
 
 *Estudiante: **Kelly Jhoana Mosquera Urbano**
