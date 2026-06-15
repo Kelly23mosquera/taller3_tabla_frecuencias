@@ -44,45 +44,42 @@ Una vez realizados los cálculos estadísticos y construidas las tablas de distr
 
 
 1. **Análisis de la variable**
-Población.
-Muestra.
-Unidad de análisis.
-Tipo de variable.
+* Población.
+* Muestra.
+* Unidad de análisis.
+* Tipo de variable.
 
 3. **Cálculos estadísticos**
    
-Número total de observaciones.
-Valor mínimo.
-Valor máximo.
-Rango.
-Número de intervalos.
-Amplitud de clase.
+* Número total de observaciones.
+* Valor mínimo.
+* Valor máximo.
+* Rango.
+* Número de intervalos.
+* Amplitud de clase.
 
 4. **Tabla de distribución de frecuencias**
 Se construyó una tabla estadística que incluye:
 
-Intervalos de clase.
-Marca de clase.
-Frecuencia absoluta (fi).
-Frecuencia relativa (hi).
-Frecuencia acumulada (Fi).
-Frecuencia relativa acumulada (Hi).
-4. Representación gráfica
+*Intervalos de clase
+*Marca de clase.
+*Frecuencia absoluta (fi).
+*Frecuencia relativa (hi).
+*Frecuencia acumulada (Fi).
+*Frecuencia relativa acumulada (Hi).
 
+4. **Representación gráfica**
+Para facilitar la interpretación de los datos se elaboraron los siguientes gráficos:
 
-5.**Para facilitar la interpretación de los datos se elaboraron los siguientes gráficos:**
-
-Histograma de frecuencias.
-Polígono de frecuencias.
-Ojiva o curva acumulada.
-
+*Histograma de frecuencias.
+*Polígono de frecuencias.
+*Ojiva o curva acumulada.
 Cada representación gráfica incluye su respectivo análisis técnico.
 
 ## **Herramientas Utilizadas**
-Microsoft Excel Web.
-GitHub.
-Estadística Descriptiva.
-
+* Microsoft Excel Web.
+* GitHub.
+* Estadística Descriptiva.
 
 
 ## **Tabla 1. Base de datos de usuarios analizados**
