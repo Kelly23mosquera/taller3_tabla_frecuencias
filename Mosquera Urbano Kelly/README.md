@@ -18,7 +18,7 @@ Este repositorio contiene el desarrollo del Taller No. 3 de la asignatura Inteli
 
 A partir de una muestra de 50 usuarios, se realizó la organización, clasificación y representación gráfica de los datos mediante una tabla de frecuencias, histograma, polígono de frecuencias y ojiva acumulada, permitiendo identificar patrones y tendencias en la distribución de la información.
 
-**Objetivo General**
+## **Objetivo General**
 
 Aplicar métodos de estadística descriptiva para analizar la variable Apps Descargadas, construyendo tablas de frecuencias y representaciones gráficas que permitan interpretar el comportamiento de los datos y apoyar la toma de decisiones.
 
