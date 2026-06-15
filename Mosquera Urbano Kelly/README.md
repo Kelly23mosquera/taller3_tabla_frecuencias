@@ -91,18 +91,6 @@ La presente tabla contiene la información correspondiente a una muestra de 50 u
 
 Estos datos constituyen la base para la construcción de la tabla de distribución de frecuencias y las diferentes representaciones gráficas desarrolladas en el taller, permitiendo analizar el comportamiento de la variable Apps Descargadas mediante técnicas de estadística descriptiva.
 
-## **Resultados Obtenidos **
-
-El análisis evidenció que la mayor concentración de observaciones se encuentra en el intervalo comprendido entre 60 y 75 aplicaciones descargadas, con una frecuencia absoluta de 10 usuarios, equivalente al 20 % de la muestra.
-
-La frecuencia acumulada indicó que:
-
-El 64 % de los usuarios descargó hasta 90 aplicaciones.
-El 80 % de los usuarios descargó hasta 105 aplicaciones.
-El 90 % de los usuarios descargó hasta 120 aplicaciones.
-
-La distribución presenta una mayor concentración de datos en los intervalos centrales y una disminución gradual hacia los extremos.
-
 
 ## **Descripción de la Tabla de Frecuencias**
 
@@ -130,6 +118,18 @@ El polígono de frecuencias mostró de manera clara la tendencia de la distribuc
 
 La ojiva permitió analizar el comportamiento acumulado de los datos. A través de esta representación se observó que el 64 % de los usuarios descargó hasta 90 aplicaciones y que el 80 % descargó hasta 105 aplicaciones. La curva ascendente refleja la acumulación progresiva de las observaciones hasta alcanzar el total de la muestra.
 
+
+## **Resultados Obtenidos **
+
+El análisis evidenció que la mayor concentración de observaciones se encuentra en el intervalo comprendido entre 60 y 75 aplicaciones descargadas, con una frecuencia absoluta de 10 usuarios, equivalente al 20 % de la muestra.
+
+La frecuencia acumulada indicó que:
+
+El 64 % de los usuarios descargó hasta 90 aplicaciones.
+El 80 % de los usuarios descargó hasta 105 aplicaciones.
+El 90 % de los usuarios descargó hasta 120 aplicaciones.
+
+La distribución presenta una mayor concentración de datos en los intervalos centrales y una disminución gradual hacia los extremos.
 
 ## **Conclusiones**
 El desarrollo de este taller permitió aplicar técnicas de estadística descriptiva para analizar la variable Apps Descargadas, facilitando la organización, clasificación e interpretación de los datos obtenidos de una muestra de 50 usuarios.
